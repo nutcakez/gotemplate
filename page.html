@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="https://unpkg.com/htmx.org@1.9.9"></script>
+</head>
+<body>
+  {{ .Stuff1 }}
+  {{ .Stuff2 }}
+  <div hx-target="this">
+    <button hx-get="/test" >test</button>
+  </div>
+</body>
+ 
+</body>
+</html>

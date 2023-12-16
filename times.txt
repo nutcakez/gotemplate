@@ -1,0 +1,96 @@
+01:00 UTC+1   Admiral Taidha Covington   Tequatl the Sunless
+01:15 UTC+1   Svanir Shaman Chief   
+01:30 UTC+1   Megadestroyer   
+01:45 UTC+1   Fire Elemental   
+02:00 UTC+1   The Shatterer   Evolved Jungle Wurm
+02:15 UTC+1   Great Jungle Wurm   
+02:30 UTC+1   Modniir Ulgoth   
+02:45 UTC+1   Shadow Behemoth   
+03:00 UTC+1   Golem Mark II   Karka Queen
+03:15 UTC+1   Svanir Shaman Chief   
+03:30 UTC+1   Claw of Jormag   
+03:45 UTC+1   Fire Elemental   
+04:00 UTC+1   Admiral Taidha Covington   Tequatl the Sunless
+04:15 UTC+1   Great Jungle Wurm   
+04:30 UTC+1   Megadestroyer   
+04:45 UTC+1   Shadow Behemoth   
+05:00 UTC+1   The Shatterer   Evolved Jungle Wurm
+05:15 UTC+1   Svanir Shaman Chief   
+05:30 UTC+1   Modniir Ulgoth   
+05:45 UTC+1   Fire Elemental   
+06:00 UTC+1   Golem Mark II   
+06:15 UTC+1   Great Jungle Wurm   
+06:30 UTC+1   Claw of Jormag   
+06:45 UTC+1   Shadow Behemoth   
+07:00 UTC+1   Admiral Taidha Covington   Karka Queen
+07:15 UTC+1   Svanir Shaman Chief   
+07:30 UTC+1   Megadestroyer   
+07:45 UTC+1   Fire Elemental   
+08:00 UTC+1   The Shatterer   Tequatl the Sunless
+08:15 UTC+1   Great Jungle Wurm   
+08:30 UTC+1   Modniir Ulgoth   
+08:45 UTC+1   Shadow Behemoth   
+09:00 UTC+1   Golem Mark II   Evolved Jungle Wurm
+09:15 UTC+1   Svanir Shaman Chief   
+09:30 UTC+1   Claw of Jormag   
+09:45 UTC+1   Fire Elemental   
+10:00 UTC+1   Admiral Taidha Covington   
+10:15 UTC+1   Great Jungle Wurm   
+10:30 UTC+1   Megadestroyer   
+10:45 UTC+1   Shadow Behemoth   
+11:00 UTC+1   The Shatterer   
+11:15 UTC+1   Svanir Shaman Chief   
+11:30 UTC+1   Modniir Ulgoth   Karka Queen
+11:45 UTC+1   Fire Elemental   
+12:00 UTC+1   Golem Mark II   
+12:15 UTC+1   Great Jungle Wurm   
+12:30 UTC+1   Claw of Jormag   Tequatl the Sunless
+12:45 UTC+1   Shadow Behemoth   
+13:00 UTC+1   Admiral Taidha Covington   
+13:15 UTC+1   Svanir Shaman Chief   
+13:30 UTC+1   Megadestroyer   Evolved Jungle Wurm
+13:45 UTC+1   Fire Elemental   
+14:00 UTC+1   The Shatterer   
+14:15 UTC+1   Great Jungle Wurm   
+14:30 UTC+1   Modniir Ulgoth   
+14:45 UTC+1   Shadow Behemoth   
+15:00 UTC+1   Golem Mark II   
+15:15 UTC+1   Svanir Shaman Chief   
+15:30 UTC+1   Claw of Jormag   
+15:45 UTC+1   Fire Elemental   
+16:00 UTC+1   Admiral Taidha Covington   Karka Queen
+16:15 UTC+1   Great Jungle Wurm   
+16:30 UTC+1   Megadestroyer   
+16:45 UTC+1   Shadow Behemoth   
+17:00 UTC+1   The Shatterer   Tequatl the Sunless
+17:15 UTC+1   Svanir Shaman Chief   
+17:30 UTC+1   Modniir Ulgoth   
+17:45 UTC+1   Fire Elemental   
+18:00 UTC+1   Golem Mark II   Evolved Jungle Wurm
+18:15 UTC+1   Great Jungle Wurm   
+18:30 UTC+1   Claw of Jormag   
+18:45 UTC+1   Shadow Behemoth   
+19:00 UTC+1   Admiral Taidha Covington   Karka Queen
+19:15 UTC+1   Svanir Shaman Chief   
+19:30 UTC+1   Megadestroyer   
+19:45 UTC+1   Fire Elemental   
+20:00 UTC+1   The Shatterer   Tequatl the Sunless
+20:15 UTC+1   Great Jungle Wurm   
+20:30 UTC+1   Modniir Ulgoth   
+20:45 UTC+1   Shadow Behemoth   
+21:00 UTC+1   Golem Mark II   Evolved Jungle Wurm
+21:15 UTC+1   Svanir Shaman Chief   
+21:30 UTC+1   Claw of Jormag   
+21:45 UTC+1   Fire Elemental   
+22:00 UTC+1   Admiral Taidha Covington   
+22:15 UTC+1   Great Jungle Wurm   
+22:30 UTC+1   Megadestroyer   
+22:45 UTC+1   Shadow Behemoth   
+23:00 UTC+1   The Shatterer   
+23:15 UTC+1   Svanir Shaman Chief   
+23:30 UTC+1   Modniir Ulgoth   
+23:45 UTC+1   Fire Elemental   
+00:00 UTC+1   Golem Mark II   Karka Queen
+00:15 UTC+1   Great Jungle Wurm   
+00:30 UTC+1   Claw of Jormag   
+00:45 UTC+1   Shadow Behemoth   
