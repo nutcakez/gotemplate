@@ -9,9 +9,13 @@ import (
 )
 
 type Boss struct {
-	name          string
-	time          time.Time
-	bigBoss, done bool
+	Name          string
+	Time          time.Time
+	BigBoss, Done bool
+}
+
+func (b Boss) FormattedTime() string {
+	return b.Time.Format("15:04")
 }
 
 func GetBossTimes() []Boss {
@@ -57,25 +61,25 @@ func GetBossTimes() []Boss {
 
 func CreateBoss(name string, time time.Time, bigBoss, done bool) Boss {
 	boss := Boss{
-		name:    name,
-		time:    time,
-		done:    done,
-		bigBoss: bigBoss,
+		Name:    name,
+		Time:    time,
+		Done:    done,
+		BigBoss: bigBoss,
 	}
 	return boss
 }
 
 func FilterForTime(input []Boss) []Boss {
 	currentTime := time.Now()
-	maxTime := currentTime.Add(15 * time.Minute)
+	maxTime := currentTime.Add(60 * time.Minute)
 	minTime := currentTime.Add(-15 * time.Minute)
 
 	filtered := make([]Boss, 0)
 
 	for _, v := range input {
-		if minTime.Before(v.time) && maxTime.After(v.time) {
+		if minTime.Before(v.Time) && maxTime.After(v.Time) {
 			fmt.Println(v, "is cool to put into filtered")
-			fmt.Println(v.time)
+			fmt.Println(v.Time)
 			filtered = append(filtered, v)
 		}
 	}

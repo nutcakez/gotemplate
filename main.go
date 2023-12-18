@@ -9,22 +9,23 @@ import (
 
 var tmplt *template.Template
 var bossTimes []Boss
+var apikey = "D850DD23-4F76-C444-B5B0-EA5909CF614CF8538C0A-84BF-41B9-9307-AD7A5E60D9C8"
 
 type something struct {
 	Stuff1, Stuff2 string
 }
 
 type BossTimer struct {
-	boss []Boss
+	Boss []Boss
 }
 
 func hello(c echo.Context) error {
 	tmplt, _ := template.ParseFiles("page.html")
-	sthing := something{
-		Stuff1: "a",
-		Stuff2: "b",
+	boss := FilterForTime(GetBossTimes())
+	bossInput := BossTimer{
+		Boss: boss,
 	}
-	err := tmplt.Execute(c.Response().Writer, sthing)
+	err := tmplt.Execute(c.Response().Writer, bossInput)
 
 	return err
 }
@@ -51,6 +52,8 @@ func test(c echo.Context) error {
 
 func main() {
 	e := echo.New()
+
+	GetAvailableWorldBosses()
 
 	bossTimes = GetBossTimes()
 	filtered := FilterForTime(bossTimes)
